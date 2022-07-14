@@ -4,19 +4,19 @@ Applicazione Mobile, in Android Studio che simula il funzionamento di un'applica
 In questa applicazione sono state realizzate le seguenti Activity.
 
 ## Registrazione
-<img src="./Immagini/Schermata_Registrazione.png" width="350" height="500">
+<img src="./Immagini/Schermata_Registrazione.png" width="350" height="700">
 
 ## Login
-<img src="./Immagini/Schermata_Login.png" width="350" height="500">
+<img src="./Immagini/Schermata_Login.png" width="350" height="700">
 
 ## Home utente
-<img src="./Immagini/Schermata_Home.png" width="350" height="500">
+<img src="./Immagini/Schermata_Home.png" width="350" height="700">
 
 ## Lista Prodotti utente
-<img src="./Immagini/Schermata_prodotti.png" width="350" height="500">
+<img src="./Immagini/Schermata_prodotti.png" width="350" height="700">
 
 ## Lista desideri 
-<img src="./Immagini/Schermata_ListaDesideri.png" width="350" height="500">
+<img src="./Immagini/Schermata_ListaDesideri.png" width="350" height="700">
 
 ## Home Admin
 <img src="./Immagini/Schermata_HomeAdmin.png" width="350" height="500">
